@@ -1,0 +1,179 @@
+{
+  "DichVu" : {
+    "Dien" : 3000,
+    "Nuoc" : 10000
+  },
+  "HoaDon" : {
+    "-MYPyxYQsYlJ41AbGcHL" : {
+      "csdienmoi" : 24,
+      "csnuocmoi" : 45,
+      "idphong" : "-MY5RYSmY9xvIl7vDzEi",
+      "ngaytao" : "16/4/2021",
+      "tiendien" : 36000,
+      "tiennuoc" : 400000,
+      "tienphong" : 2000000,
+      "tongtien" : 2436000,
+      "trangthai" : true
+    },
+    "-MYQB7IKC0rNf7sR_rRZ" : {
+      "csdienmoi" : 34,
+      "csnuocmoi" : 56,
+      "idphong" : "-MY5RYSmY9xvIl7vDzEi",
+      "ngaytao" : "15/5/2021",
+      "tiendien" : 30000,
+      "tiennuoc" : 110000,
+      "tienphong" : 2000000,
+      "tongtien" : 2140000,
+      "trangthai" : true
+    },
+    "-MYQNul2OvczSJv6yHRR" : {
+      "csdienmoi" : 20,
+      "csnuocmoi" : 5,
+      "idphong" : "-MYKsC7nRjc6JyisBpAU",
+      "ngaytao" : "15/2/2021",
+      "tiendien" : 60000,
+      "tiennuoc" : 50000,
+      "tienphong" : 3000000,
+      "tongtien" : 3110000,
+      "trangthai" : true
+    },
+    "-MYQO-oxqG5FAPLVjvwv" : {
+      "csdienmoi" : 44,
+      "csnuocmoi" : 10,
+      "idphong" : "-MYKsC7nRjc6JyisBpAU",
+      "ngaytao" : "15/3/2021",
+      "tiendien" : 72000,
+      "tiennuoc" : 50000,
+      "tienphong" : 3000000,
+      "tongtien" : 3122000,
+      "trangthai" : true
+    },
+    "-MYQOCr7ark8bAaFx7W6" : {
+      "csdienmoi" : 77,
+      "csnuocmoi" : 14,
+      "idphong" : "-MYKsC7nRjc6JyisBpAU",
+      "ngaytao" : "15/4/2021",
+      "tiendien" : 99000,
+      "tiennuoc" : 40000,
+      "tienphong" : 3000000,
+      "tongtien" : 3139000,
+      "trangthai" : false
+    },
+    "-MYTYsraLQJ8ZncauioA" : {
+      "csdienmoi" : 22,
+      "csnuocmoi" : 3,
+      "idphong" : "-MYOxSq2cb6r1CW--t2k",
+      "ngaytao" : "17/4/2021",
+      "tiendien" : 66000,
+      "tiennuoc" : 30000,
+      "tienphong" : 2000000,
+      "tongtien" : 2096000,
+      "trangthai" : true
+    },
+    "-MYTZ2vlZNi3lLI3jv6v" : {
+      "csdienmoi" : 45,
+      "csnuocmoi" : 6,
+      "idphong" : "-MYOxSq2cb6r1CW--t2k",
+      "ngaytao" : "17/4/2021",
+      "tiendien" : 69000,
+      "tiennuoc" : 30000,
+      "tienphong" : 2000000,
+      "tongtien" : 2099000,
+      "trangthai" : false
+    }
+  },
+  "KhachThue" : {
+    "-MYOwxRcw_BAgzOG6mu7" : {
+      "cmnd" : "033200007141",
+      "diachi" : "Hung Yen",
+      "gioitinh" : true,
+      "hoten" : "Bui Hoang Xuan",
+      "idphong" : "-MY5RYSmY9xvIl7vDzEi",
+      "ngaythue" : "16/4/2021",
+      "sdt" : "0933705634"
+    },
+    "-MYP8JPTebwgk0AGEP1K" : {
+      "cmnd" : "03310004714",
+      "diachi" : "Tay Ninh",
+      "gioitinh" : true,
+      "hoten" : "Ngyuen Minh Toan",
+      "idphong" : "-MY5RYSmY9xvIl7vDzEi",
+      "ngaythue" : "16/4/2021",
+      "sdt" : "0354080447"
+    },
+    "-MYQMOyUK4zPl1_9DNKZ" : {
+      "cmnd" : "03320007141",
+      "diachi" : "Hưng Yên",
+      "gioitinh" : true,
+      "hoten" : "Bùi Hoàng Xuân",
+      "idphong" : "-MYKsC7nRjc6JyisBpAU",
+      "ngaythue" : "16/4/2021",
+      "sdt" : "0933705634"
+    },
+    "-MYQMaoo_4sxn9ALVee6" : {
+      "cmnd" : "033200007645",
+      "diachi" : "Tây Ninh",
+      "gioitinh" : true,
+      "hoten" : "Nguyễn Minh Toàn",
+      "idphong" : "-MYKsC7nRjc6JyisBpAU",
+      "ngaythue" : "16/4/2021",
+      "sdt" : "0933080447"
+    },
+    "-MYQMk4Izoo89xYAg7-G" : {
+      "cmnd" : "097744400012",
+      "diachi" : "Bình Dương",
+      "gioitinh" : true,
+      "hoten" : "Lê Minh Nhật",
+      "idphong" : "-MYKsC7nRjc6JyisBpAU",
+      "ngaythue" : "16/4/2021",
+      "sdt" : "093662224"
+    }
+  },
+  "Phong" : {
+    "-MY5RYSmY9xvIl7vDzEi" : {
+      "gia" : 2000000,
+      "ten" : "Phòng 01",
+      "trangthai" : true
+    },
+    "-MYKsC7nRjc6JyisBpAU" : {
+      "gia" : 3000000,
+      "ten" : "Phòng Hoàng Xuân",
+      "trangthai" : true
+    },
+    "-MYL0CdcWQ0HBMBwPpUl" : {
+      "gia" : 3000000,
+      "ten" : "Phòng Minh Toàn",
+      "trangthai" : true
+    },
+    "-MYOxPa_clEySDt59wvg" : {
+      "gia" : 2500000,
+      "ten" : "Phòng Minh Nhật",
+      "trangthai" : true
+    },
+    "-MYOxSq2cb6r1CW--t2k" : {
+      "gia" : 2000000,
+      "ten" : "Phòng Moi",
+      "trangthai" : true
+    }
+  },
+  "users" : {
+    "-MY81Xxe3eix_x9EeFwr" : {
+      "hoten" : "Nguyen Minh Toan",
+      "name" : "toan",
+      "password" : "toan",
+      "sdt" : "0354080447"
+    },
+    "-MY8qEqNNMoM5FiqRCLq" : {
+      "hoten" : "Bui Hoang Xuan",
+      "name" : "admin",
+      "password" : "admin",
+      "sdt" : "0933705634"
+    },
+    "-MYTWUSQsavIkCHwFU7A" : {
+      "hoten" : "Bui Hoang Sang",
+      "name" : "sang",
+      "password" : "sang",
+      "sdt" : "093370235"
+    }
+  }
+}
